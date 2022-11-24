@@ -10,6 +10,7 @@ Se deben tener los siguientes servicios instalados:
 - Yarn
 
 Para poder ejecutar la paginita uwu
+(DENTRO DE /CLIENT) sino no da ps 
 > yarn
 
 > yarn add react-router-dom
