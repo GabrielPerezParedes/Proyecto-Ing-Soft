@@ -27,3 +27,15 @@ Una vez clonado el proyecto, ejecutar los siguientes comandos dentro del termina
 #### Nota #1: Los comandos se deben ejecutar si o si dentro de client, sino no se podrá visualizar la página. 
 
 #### Nota #2: Luego de ejecutar el "yarn start" la página se abrirá automáticamente en su navegador predeterminado.
+
+## Extras
+
+Para el funcionamiento del carrusel de imagenes
+
+> yarn add react-responsive-carousel 
+
+Para Bootstrap
+
+> yarn add react-bootstrap  
+
+> yarn add bootstrap  
