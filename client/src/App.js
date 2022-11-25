@@ -8,9 +8,11 @@ import Register from "./pages/Register";
 import Login from "./pages/Login";
 import Write from "./pages/Write";
 import Home from "./pages/Home";
+import Products from "./pages/Products";
 import Single from "./pages/Single";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import ProductList from './components/ProductList';
 import "./style.scss"
 
 const Layout = () => {
@@ -39,6 +41,10 @@ const router = createBrowserRouter([
       {
         path: "/write",
         element: <Write />,
+      },
+      {
+        path: "/products",
+        element: <Products />,
       },
     ],
   },

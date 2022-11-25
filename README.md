@@ -20,9 +20,13 @@ Una vez clonado el proyecto, ejecutar los siguientes comandos dentro del termina
 
 > yarn add sass
 
+> yarn add bootstrap
+
 > yarn add react-quill
 
 > yarn start
+
+
 
 #### Nota #1: Los comandos se deben ejecutar si o si dentro de client, sino no se podrá visualizar la página. 
 
