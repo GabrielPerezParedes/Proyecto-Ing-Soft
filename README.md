@@ -9,9 +9,8 @@ Se deben tener los siguientes servicios instalados:
 - MySQL
 - Yarn
 
-Para poder ejecutar la paginita uwu
-
-(DENTRO DE /CLIENT)
+## Para poder ejecutar la pagina
+Una vez clonado el proyecto, ejecutar los siguientes comandos dentro del terminal de VSCode o similar.
 
 > cd .\client\
 
@@ -24,3 +23,7 @@ Para poder ejecutar la paginita uwu
 > yarn add react-quill
 
 > yarn start
+
+#### Nota #1: Los comandos se deben ejecutar si o si dentro de client, sino no se podrá visualizar la página. 
+
+#### Nota #2: Luego de ejecutar el "yarn start" la página se abrirá automáticamente en su navegador predeterminado.
